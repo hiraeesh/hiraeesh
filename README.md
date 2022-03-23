@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:red">Hi 👋, I'm Raeesh Rayeen</h1>
+<h1 align="center" style="color:red;">Hi 👋, I'm Raeesh Rayeen</h1>
 <h3 align="center">A passionate frontend & Backend developer</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/926537/screenshots/13473747/media/b89e821e774b7a550e4e467579b88f8f.png?compress=1&resize=800x600&vertical=top" alt="hiraeesh" /> </p>
