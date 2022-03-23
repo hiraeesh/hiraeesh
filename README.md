@@ -1,4 +1,4 @@
-<h1 align="center" color="blue">I'm Raeesh Rayeen</h1>
+<h1 align="center" style='color:red'>I'm Raeesh Rayeen</h1>
 <h2 align="center" background-color="red">A passionate Frontend & Backend developer</h2>
 
 
