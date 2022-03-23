@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raeesh Rayeen</h1>
 <h3 align="center">A passionate Frontend & Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiraeesh&label=Profile%20views&color=0e75b6&style=flat" alt="hiraeesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiraeesh" alt="hiraeesh" /></a> </p>
-
-- 🔭 I’m currently working on **Api**
-
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on **Web Technology**
-
-- 💬 Ask me about **react,Django**
-
-- 📫 How to reach me **raeeshrayeen98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
