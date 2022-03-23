@@ -1,4 +1,7 @@
-<h1 align="center">- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15` 'm Raeesh Rayeen</h1>
+<div class="text-white bg-blue">
+  .text-white on .bg-blue
+</div>
+<h1 align="center"> I'm Raeesh Rayeen</h1>
 <h2 align="center" background-color="red">A passionate Frontend & Backend developer</h2>
 
 
