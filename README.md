@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiraeesh" alt="hiraeesh" /></a> </p>
 
-- 🔭 I’m currently working on **Api**
-
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Web Technology**
