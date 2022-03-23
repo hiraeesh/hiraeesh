@@ -1,5 +1,5 @@
 <h1 align="center" color="blue">Hi 👋, I'm Raeesh Rayeen</h1>
-<h3 align="center">A passionate Frontend & Backend developer</h3>
+<h2 align="center">A passionate Frontend & Backend developer</h2>
 
 
 <h3 align="left">Connect with me:</h3>
