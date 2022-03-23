@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raeesh Rayeen</h1>
 <h3 align="center">A passionate frontend & Backend developer</h3>
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHj6mDkQDM8p16Qv5c_h8tuaE_YY_NMfn_dtk0kxAlrHJXW_OvaWKXMH0FCnpyfeyxcc&usqp=CAU" alt="hiraeesh" /> </p>
+<p align="left"> <img src="https://images.pexels.com/photos/248360/pexels-photo-248360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="hiraeesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiraeesh" alt="hiraeesh" /></a> </p>
 
