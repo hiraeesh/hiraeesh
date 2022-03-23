@@ -1,6 +1,4 @@
-<div class="text-white bg-blue">
-  .text-white on .bg-blue
-</div>
+
 <h1 align="center"> I'm Raeesh Rayeen</h1>
 <h2 align="center" background-color="red">A passionate Frontend & Backend developer</h2>
 
