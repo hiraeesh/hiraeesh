@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raeesh Rayeen</h1>
+<h1 align="center" color="blue">Hi 👋, I'm Raeesh Rayeen</h1>
 <h3 align="center">A passionate Frontend & Backend developer</h3>
 
 
