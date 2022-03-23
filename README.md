@@ -1,10 +1,6 @@
 
-<h1 align="center">```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
-```</h1>
-<h2 align="center" background-color="red">A passionate Frontend & Backend developer</h2>
+<h1 align="center">I'm Raeesh Rayeen</h1>
+<h2 align="center" color="red">A passionate Frontend & Backend developer</h2>
 
 
 <h3 align="center">I Familiar with these Languages and Tools </h3>
