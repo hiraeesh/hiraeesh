@@ -1,6 +1,7 @@
 
-<h1 align="center">I'm Raeesh Rayeen</h1>
+
 <h2 align="center" color="red">Born to be a programmer</h2>
+<h1 align="center">I'm Raeesh Rayeen</h1>
 <h2 align="center" color="red">Full Stack Web Developer & Django Developer  </h2>
 
 
