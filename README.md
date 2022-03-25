@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Raeesh Rayeen</h1>
 <h2 align="center" color="red">Born to be a programmer</h2>
-<h2 align="center" color="red">A passionate Frontend & Backend development</h2>
+<h2 align="center" color="red">Full Stack Web Developer & Django Developer  </h2>
 
 
 <h3 align="center">I Familiar with these Languages and Tools </h3>
